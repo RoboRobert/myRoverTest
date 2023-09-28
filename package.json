@@ -1,0 +1,15 @@
+{
+  "name": "myrovertest",
+  "version": "1.0.0",
+  "description": "Package designed to learn about NodeJS and work on Base Station",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "node server.js"
+  },
+  "author": "Nathan Estep",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
